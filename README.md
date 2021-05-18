@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome to My World_
+## My Name is Nick
 
-<!--
-**nickkydavy/nickkydavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's me introduce myself
+- Name : Panu Nimwattana (Nick)
+- Age : 29
+- Birthday : 2/10
+- 🔭 I’m looking  for Front-end Dev., Full-stack Dev., Data Scienctist, Data Analysis
+- 🌱 I’m currently learning Python3, Django, MongoDB, ReactJS, ExpressJS
+- 👯 I’m looking to collaborate on Facebook, Google, Twitch
+- 💬 Ask me about HTML, CSS, JS, Python3, 
+- 📫 How to reach me: Facebook [@nickkydavy(My Personal Profile)](www.facebook.com/nickkydavy), [@NickDY-Gamer(My FG Gaming Page)](www.facebook.com/nickdyGamer)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I never get a developer job before.
