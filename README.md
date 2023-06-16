@@ -3,7 +3,7 @@
 
 Let's me introduce myself
 - Name : Panu Nimwattana (Nick)
-- Age : 29
+- Age : 31
 - Birthday : 2/10
 - 🔭 I’m looking  for Front-end Dev., Full-stack Dev., Data Scienctist, Data Analysis
 - 🌱 I’m currently learning Python3, Django, MongoDB, ReactJS, ExpressJS
